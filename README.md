@@ -1,4 +1,4 @@
-# **MONITORIZACION**
+### <h1 align="center" MONITORIZACION </h1>
 
 Este repositorio contiene documentación técnica sobre herramientas de monitorización en Linux.
 
