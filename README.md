@@ -8,3 +8,5 @@ Este repositorio contiene documentación técnica sobre herramientas de monitori
 3. [Monitorización del Almacenamiento.](Monitorizacion-Almacenamiento.md)
 4. [Monitorización de la Red.](Monitorizacion-Red.md)
 5. [Referencias.](Referecias.md)
+
+![Monitorización](img/rendimiento_Linux.jpg)
