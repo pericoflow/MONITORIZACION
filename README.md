@@ -9,4 +9,4 @@ Este repositorio contiene documentación técnica sobre herramientas de monitori
 4. [Monitorización de la Red.](Monitorizacion-Red.md)
 5. [Referencias.](Referecias.md)
 
-![Monitorización](img/rendimiento_Linux.jpg)
+![Monitorización](img/rendimiento_Linux.png)
