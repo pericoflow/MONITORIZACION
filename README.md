@@ -1,5 +1,7 @@
 # **MONITORIZACION**
 
+Este repositorio contiene documentación técnica sobre herramientas de monitorización en Linux.
+
 **Índice**
 1. [Introducción.](Introduccion.md)
 2. [Monitorización de Procesos.](Monitorizacion-Procesos.md)
