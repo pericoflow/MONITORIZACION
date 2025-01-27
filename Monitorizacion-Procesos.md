@@ -17,8 +17,10 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
 - Muestra una lista dinámica y en tiempo real de los procesos en ejecución, permitiendo observar qué procesos consumen más recursos del sistema. A diferencia de ps, top se actualiza continuamente.
   - <ins>top:</ins> Muestra en tiempo real los procesos más activos.
 ![TOP](img/TOP.png)
-  - <ins>top -m:</ins> Muestra información de la memoria activada y desactivada. 
+  - <ins>top -h:</ins> Muestra información de la memoria activada y desactivada.
+![TOP -H](img/TOP-H.png)
   - <ins>top -u root:</ins> Muestra los procesos del usuario root.
+![TOP -U ROOT](img/TOP-U-ROOT.png)
 
 *HTOP*
 - Es una versión mejorada de top, con una interfaz gráfica más amigable, que también muestra información en tiempo real de los procesos y recursos del sistema. Ofrece opciones interactivas como ordenar por diferentes columnas y visualizar los procesos en un árbol. 
