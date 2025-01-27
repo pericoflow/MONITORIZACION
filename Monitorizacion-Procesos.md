@@ -33,6 +33,9 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
 
 *ATOP*
 - Es una herramienta avanzada que ofrece una monitorización más detallada, mostrando estadísticas sobre el uso de CPU, disco, memoria, red y más. También puede almacenar registros históricos para su posterior análisis.
-  - <ins>atop:</ins> Muestra el uso de recursos del sistema en tiempo real. 
-  - <ins>atop -d 2:</ins> Actualiza la información de los recursos cada 2 segundos. 
+  - <ins>atop:</ins> Muestra el uso de recursos del sistema en tiempo real.
+![ATOP](img/ATOP.png)
+  - <ins>atop -d 2:</ins> Actualiza la información de los recursos cada 2 segundos.
+![ATOP -D 2](img/ATOP-D-2.png)
   - <ins>atop -a:</ins> Muestra solo los procesos activos.
+![ATOP -A](img/ATOP-A.png)
