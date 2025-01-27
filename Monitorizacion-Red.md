@@ -6,12 +6,12 @@ La *"monitorización de la red"* permite observar el tráfico de datos que fluye
 
 *TCPDUMP* 
 - Es una herramienta cuya utilidad principal es analizar el tráfico que circula por la red. Permite al usuario capturar y mostrar en tiempo real los paquetes transmitidos y recibidos por la red a la cual el ordenador está conectado. 
-  - <ins>tcpdump:</ins> Captura todos los paquetes en la interfaz de red predeterminada.
-![TCPDUMP](img/TCPDUMP.png)
-  - <ins>tcpdump -l:</ins> Captura paquetes que se envían desde o hacia la dirección IP 192.168.1.1 en la interfaz eth0.
-![TCPDUMP -L](img/TCPDUMP-L.png)
-  - <ins>tcpdump -v:</ins> Muestra solo las cabeceras de los paquetes en detalle.
-![TCPDUMP -V](img/TCPDUMP-V.png)
+  - <ins>tcpdump:</ins> Captura todos los paquetes en la interfaz de red predeterminada. 
+![TCPDUMP](img/TCPDUMP.png) 
+  - <ins>tcpdump -l:</ins> Captura paquetes que se envían desde o hacia la dirección IP 192.168.1.1 en la interfaz eth0. 
+![TCPDUMP -L](img/TCPDUMP-L.png) 
+  - <ins>tcpdump -v:</ins> Muestra solo las cabeceras de los paquetes en detalle. 
+![TCPDUMP -V](img/TCPDUMP-V.png) 
 
 *TCPTRACK* 
 - Muestra las conexiones TCP activas en tiempo real, indicando las direcciones IP de origen y destino, el estado de la conexión y la cantidad de datos transmitidos. 
