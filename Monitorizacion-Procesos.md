@@ -1,4 +1,4 @@
-# <h1 align="center"> Monitorización de Procesos </h> 
+# <h1 align="center"> MONITORIZACIÓN DE PROCESOS </h> 
 
 La *"monitorización de procesos"* es esencial para conocer el comportamiento de los programas y servicios en ejecución en un sistema. Permite a los administradores identificar procesos que consumen demasiados recursos (como CPU o memoria), y gestionar su ejecución para mantener el rendimiento del sistema. 
 
