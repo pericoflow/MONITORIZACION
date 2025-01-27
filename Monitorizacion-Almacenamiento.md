@@ -8,7 +8,8 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
 - Este comando proporciona toda la información sobre la RAM, cuanta RAM se está utilizando, cuenta está disponible, etc. El comando free sin opciones nos devolverá entonces los resultados para la memoria Total, Usada y Libre de tu ordenador o servidor. 
   - <ins>free:</ins> Muestra la memoria total, usada y libre.
 ![FREE](img/FREE.png)
-  - <ins>free -m:</ins> Muestra la memoria en megabytes. 
+  - <ins>free -m:</ins> Muestra la memoria en megabytes.
+![FREE -M](img/FREE-M.png)
   - <ins>free -s 1:</ins> Actualiza la información de la memoria cada segundo. 
  
 *DF* 
