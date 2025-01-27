@@ -29,7 +29,7 @@ La *"monitorización de la red"* permite observar el tráfico de datos que fluye
   - <ins>sudo iptraf-ng -i:</ins> Muestra estadísticas de tráfico para la interfaz eth0. 
 ![SUDO IPTRAF-NG -I ENP0S3](img/IPTRAF-NG-I.png) 
   - <ins>sudo iptraf-ng -l:</ins> Ejecuta iptraf-ng en segundo plano y genera un informe de tráfico. 
-![SUDO IPTRAF-NG -B](img/IPTRAF-NG-l.png) 
+![SUDO IPTRAF-NG -L](img/IPTRAF-NG-L.png) 
 
 *NETSTAT* 
 - Es una herramienta clásica para inspeccionar las conexiones de red, los puertos abiertos y las estadísticas de red. 
