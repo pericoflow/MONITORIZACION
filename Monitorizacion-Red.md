@@ -34,8 +34,8 @@ La *"monitorización de la red"* permite observar el tráfico de datos que fluye
 *NETSTAT* 
 - Es una herramienta clásica para inspeccionar las conexiones de red, los puertos abiertos y las estadísticas de red. 
   - <ins>netstat -n:</ins> Muestra todas las conexiones establecidas con direcciones numéricas. 
-![TCPTRUCK](img/TCPTRUCK.png) 
+![NETSTAT](img/NETSTAT-N.png) 
   - <ins>netstat -p:</ins> Muestra las conexiones de red y los programas asociados. 
-![TCPTRUCK](img/TCPTRUCK.png) 
+![NETSTAT](img/NETSTAT-P.png) 
   - <ins>netstat -i:</ins> Muestra estadísticas detalladas de las interfaces de red. 
-![TCPTRUCK](img/TCPTRUCK.png) 
+![NETSTAT](img/NETSTAT-I.png) 
