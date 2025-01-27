@@ -10,3 +10,5 @@
 10. [COMANDO TCPTRUCK](https://linux.die.net/man/1/tcptrack)
 11. [COMANDO IPTRAF-NG](https://aprendiendoavirtualizar.com/monitorizar-la-red-en-linux-con-iptraf/)
 12. [COMANDO NETSTAT](https://www.ionos.es/digitalguide/servidores/herramientas/una-introduccion-a-netstat/)
+
+13. 
