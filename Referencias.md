@@ -16,4 +16,4 @@ A continuación te muestraré las referencias/enlaces de los comandos utilizados
 12. [COMANDO NETSTAT](https://www.ionos.es/digitalguide/servidores/herramientas/una-introduccion-a-netstat/)
 
 ## Selección de página 
-[Volver](./Monitorización-Red.md) 
+[Volver](./Monitorizacion-Red.md) 
