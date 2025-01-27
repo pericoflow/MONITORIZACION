@@ -25,11 +25,17 @@ La *"monitorización de la red"* permite observar el tráfico de datos que fluye
 *IPTRAF-NG* 
 - Es una herramienta interactiva que ofrece estadísticas detalladas sobre el tráfico de red en tiempo real. Se utiliza para supervisar y analizar conexiones de red, tráfico de datos y más.
   - <ins>sudo iptraf-ng -d:</ins> Muestra estadísticas de tráfico en modo automático. 
-  - <ins>sudo iptraf-ng -i eth0:</ins> Muestra estadísticas de tráfico para la interfaz eth0. 
-  - <ins>sudo iptraf-ng -B:</ins> Ejecuta iptraf-ng en segundo plano y genera un informe de tráfico. 
+![SUDO IPTRAF-NG -D](img/IPTRAF-NG-D.png) 
+  - <ins>sudo iptraf-ng -i:</ins> Muestra estadísticas de tráfico para la interfaz eth0. 
+![SUDO IPTRAF-NG -I ENP0S3](img/IPTRAF-NG-I.png) 
+  - <ins>sudo iptraf-ng -l:</ins> Ejecuta iptraf-ng en segundo plano y genera un informe de tráfico. 
+![SUDO IPTRAF-NG -B](img/IPTRAF-NG-l.png) 
 
 *NETSTAT* 
 - Es una herramienta clásica para inspeccionar las conexiones de red, los puertos abiertos y las estadísticas de red. 
   - <ins>netstat -n:</ins> Muestra todas las conexiones establecidas con direcciones numéricas. 
+![TCPTRUCK](img/TCPTRUCK.png) 
   - <ins>netstat -p:</ins> Muestra las conexiones de red y los programas asociados. 
+![TCPTRUCK](img/TCPTRUCK.png) 
   - <ins>netstat -i:</ins> Muestra estadísticas detalladas de las interfaces de red. 
+![TCPTRUCK](img/TCPTRUCK.png) 
