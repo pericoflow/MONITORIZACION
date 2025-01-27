@@ -1,5 +1,7 @@
 # <h1 align="center"> REFERENCIAS </h1> 
 
+A continuación te muestraré las referencias/enlaces de los comandos utilizados.  
+
 1. [COMANDO PS](https://www.ionos.es/digitalguide/servidores/configuracion/comando-ps-de-linux/)
 2. [COMANDO TOP](https://voidnull.es/como-funciona-el-comando-top-y-que-significado-tiene-toda-la-informacion-que-nos-muestra/)
 3. [COMANDO HTOP](https://www.ionos.es/digitalguide/servidores/herramientas/htop-el-gestor-de-procesos-para-linux-mac-os-x-y-bds/)
