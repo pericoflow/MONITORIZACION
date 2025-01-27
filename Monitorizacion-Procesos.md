@@ -40,6 +40,7 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
   - <ins>atop -a:</ins> Muestra solo los procesos activos.
 ![ATOP -A](img/ATOP-A.png)
 
+## Selección de página 
 [Volver](./Introduccion.md)    
 [Ir a Monitorización del Almacenamiento](./Monitorización-Almacenamiento.md)  
 [Ir a Monitorización de la Red](./Monitorizacion-Red.md)  
