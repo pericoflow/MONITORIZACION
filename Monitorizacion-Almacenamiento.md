@@ -12,18 +12,18 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
  
 *DF* 
 - El comando df (disk free) se utiliza para obtener un informe del espacio total, usado y disponible en los sistemas de archivos montados. 
-  - <isn>df:</isn> Muestra el uso del espacio en disco. 
-  - <isn>df -h:</isn> Muestra el uso del espacio en disco en un formato legible (ej. GB). 
-  - <isn>df /:</isn> Muestra el uso del espacio en disco del sistema de archivos raíz. 
+  - <ins>df:</ins> Muestra el uso del espacio en disco. 
+  - <ins>df -h:</ins> Muestra el uso del espacio en disco en un formato legible (ej. GB). 
+  - <ins>df /:</ins> Muestra el uso del espacio en disco del sistema de archivos raíz. 
 
 *DU* 
 - Es un comando que significa “Disk Usage” (uso de disco). Su función principal es mostrar el espacio en disco utilizado por archivos y directorios en tu sistema. 
-  - <isn>du /ruta/al/directorio:</isn> Muestra el tamaño de un directorio. 
-  - <isn>du -h /ruta/al/directorio:</isn> Muestra el tamaño del directorio en un formato legible. 
-  - <isn>du -a /ruta/al/directorio:</isn> Muestra el tamaño de todos los archivos y subdirectorios. 
+  - <ins>du /ruta/al/directorio:</ins> Muestra el tamaño de un directorio. 
+  - <ins>du -h /ruta/al/directorio:</ins> Muestra el tamaño del directorio en un formato legible. 
+  - <ins>du -a /ruta/al/directorio:</ins> Muestra el tamaño de todos los archivos y subdirectorios. 
 
 *IOSTAT* 
 - Proporciona estadísticas sobre la utilización de la CPU y los dispositivos de almacenamiento (discos duros, SSDs, etc.). Es muy útil para analizar el rendimiento de los discos y la carga de la CPU. 
-  - <isn>iostat:</isn> Muestra estadísticas básicas de la utilización de CPU y discos. 
-  - <isn>iostat 1:</isn> Actualiza las estadísticas cada segundo. 
-  - <isn>iostat -d:</isn> Muestra estadísticas detalladas de todos los dispositivos de almacenamiento.
+  - <ins>iostat:</ins> Muestra estadísticas básicas de la utilización de CPU y discos. 
+  - <ins>iostat 1:</ins> Actualiza las estadísticas cada segundo. 
+  - <ins>iostat -d:</ins> Muestra estadísticas detalladas de todos los dispositivos de almacenamiento.
