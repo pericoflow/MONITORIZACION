@@ -1,6 +1,6 @@
 # <h1 align="center"> Monitorización de Procesos </h> 
 
-La <u>*monitorización de procesos*</u> es esencial para conocer el comportamiento de los programas y servicios en ejecución en un sistema. Permite a los administradores identificar procesos que consumen demasiados recursos (como CPU o memoria), y gestionar su ejecución para mantener el rendimiento del sistema. 
+La <ins>*monitorización de procesos*</ins> es esencial para conocer el comportamiento de los programas y servicios en ejecución en un sistema. Permite a los administradores identificar procesos que consumen demasiados recursos (como CPU o memoria), y gestionar su ejecución para mantener el rendimiento del sistema. 
 
 ## **Herramientas principales:** 
 
