@@ -1,6 +1,6 @@
 # <h1 align="center"> Monitorización del Almacenamiento </h> 
 
-La <ins>*"monitorización del almacenamiento"*</ins> es crucial para asegurarse de que el sistema tiene suficiente espacio disponible en el disco y para evitar que se sobrecargue. Además, permite detectar posibles cuellos de botella relacionados con el acceso a disco. 
+La *"monitorización del almacenamiento"* es crucial para asegurarse de que el sistema tiene suficiente espacio disponible en el disco y para evitar que se sobrecargue. Además, permite detectar posibles cuellos de botella relacionados con el acceso a disco. 
 
 ## **Herramientas principales:** 
 
