@@ -25,7 +25,7 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
 *DU* 
 - Es un comando que significa “Disk Usage” (uso de disco). Su función principal es mostrar el espacio en disco utilizado por archivos y directorios en tu sistema. 
   - <ins>du /ruta/al/directorio:</ins> Muestra el tamaño de un directorio.
-![DU](img/DU.png) 
+![DU /](img/DU-RUTA.png) 
   - <ins>du -h /ruta/al/directorio:</ins> Muestra el tamaño del directorio en un formato legible.
 ![DU -H /](img/DU-H-RUTA.png)
   - <ins>du -a /ruta/al/directorio:</ins> Muestra el tamaño de todos los archivos y subdirectorios.
