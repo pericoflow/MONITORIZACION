@@ -27,9 +27,9 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
   - <ins>du /ruta/al/directorio:</ins> Muestra el tamaño de un directorio.
 ![DU](img/DU.png) 
   - <ins>du -h /ruta/al/directorio:</ins> Muestra el tamaño del directorio en un formato legible.
-![DU -H](img/DU-H.png)
+![DU -H /](img/DU-H-RUTA.png)
   - <ins>du -a /ruta/al/directorio:</ins> Muestra el tamaño de todos los archivos y subdirectorios.
-![DU /](img/DU-RUTA.png)
+![DU -A /](img/DU-A-RUTA.png)
 
 *IOSTAT* 
 - Proporciona estadísticas sobre la utilización de la CPU y los dispositivos de almacenamiento (discos duros, SSDs, etc.). Es muy útil para analizar el rendimiento de los discos y la carga de la CPU. 
