@@ -10,7 +10,8 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
 ![FREE](img/FREE.png)
   - <ins>free -m:</ins> Muestra la memoria en megabytes.
 ![FREE -M](img/FREE-M.png)
-  - <ins>free -s 1:</ins> Actualiza la información de la memoria cada segundo. 
+  - <ins>free -s 1:</ins> Actualiza la información de la memoria cada segundo.
+![FREE -S 1](img/FREE-S-1.png)
  
 *DF* 
 - El comando df (disk free) se utiliza para obtener un informe del espacio total, usado y disponible en los sistemas de archivos montados. 
