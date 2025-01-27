@@ -41,5 +41,5 @@ La *"monitorización de la red"* permite observar el tráfico de datos que fluye
 ![NETSTAT](img/NETSTAT-I.png) 
 
 ## Selección de página 
-[Volver](./Monitorización-Almacenamiento.md)     
+[Volver](./Monitorizacion-Almacenamiento.md)     
 [Ir a Referencias](./Referencias.md)  
