@@ -15,9 +15,12 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
  
 *DF* 
 - El comando df (disk free) se utiliza para obtener un informe del espacio total, usado y disponible en los sistemas de archivos montados. 
-  - <ins>df:</ins> Muestra el uso del espacio en disco. 
-  - <ins>df -h:</ins> Muestra el uso del espacio en disco en un formato legible (ej. GB). 
-  - <ins>df /:</ins> Muestra el uso del espacio en disco del sistema de archivos raíz. 
+  - <ins>df:</ins> Muestra el uso del espacio en disco.
+![DF](img/DF.png)
+  - <ins>df -h:</ins> Muestra el uso del espacio en disco en un formato legible (ej. GB).
+![DF -R](img/DF-R.png)
+  - <ins>df /:</ins> Muestra el uso del espacio en disco del sistema de archivos raíz.
+![DF /](img/DF-RUTA.png)
 
 *DU* 
 - Es un comando que significa “Disk Usage” (uso de disco). Su función principal es mostrar el espacio en disco utilizado por archivos y directorios en tu sistema. 
