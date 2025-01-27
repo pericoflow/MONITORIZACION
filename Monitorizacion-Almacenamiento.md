@@ -24,9 +24,12 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
 
 *DU* 
 - Es un comando que significa “Disk Usage” (uso de disco). Su función principal es mostrar el espacio en disco utilizado por archivos y directorios en tu sistema. 
-  - <ins>du /ruta/al/directorio:</ins> Muestra el tamaño de un directorio. 
-  - <ins>du -h /ruta/al/directorio:</ins> Muestra el tamaño del directorio en un formato legible. 
-  - <ins>du -a /ruta/al/directorio:</ins> Muestra el tamaño de todos los archivos y subdirectorios. 
+  - <ins>du /ruta/al/directorio:</ins> Muestra el tamaño de un directorio.
+![DU](img/DU.png) 
+  - <ins>du -h /ruta/al/directorio:</ins> Muestra el tamaño del directorio en un formato legible.
+![DU -H](img/DU-H.png)
+  - <ins>du -a /ruta/al/directorio:</ins> Muestra el tamaño de todos los archivos y subdirectorios.
+![DU /](img/DU-RUTA.png)
 
 *IOSTAT* 
 - Proporciona estadísticas sobre la utilización de la CPU y los dispositivos de almacenamiento (discos duros, SSDs, etc.). Es muy útil para analizar el rendimiento de los discos y la carga de la CPU. 
