@@ -12,7 +12,7 @@ A continuación, se describen las herramientas más comunes:
 
 ## Selección de página
 [Volver](./README.md)  
-[Ir a Monitorización de Procesos.](./Monitorizacion-Procesos.md)
+[Ir a Monitorización de Procesos.](./Monitorizacion-Procesos.md)  
 [Ir a Monitorización del Almacenamiento](./Monitorización-Almacenamiento.md)  
-[Ir a Monitorización de la Red](./Monitorizacion-Red.md)
-[Ir a Referencias](./Referencias.md)
+[Ir a Monitorización de la Red](./Monitorizacion-Red.md)  
+[Ir a Referencias](./Referencias.md)  
