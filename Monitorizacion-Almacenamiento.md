@@ -18,7 +18,7 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
   - <ins>df:</ins> Muestra el uso del espacio en disco.
 ![DF](img/DF.png)
   - <ins>df -h:</ins> Muestra el uso del espacio en disco en un formato legible (ej. GB).
-![DF -R](img/DF-R.png)
+![DF -R](img/DF-H.png)
   - <ins>df /:</ins> Muestra el uso del espacio en disco del sistema de archivos raíz.
 ![DF /](img/DF-RUTA.png)
 
