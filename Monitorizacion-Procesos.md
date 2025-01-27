@@ -9,13 +9,14 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
   - <ins>ps:</ins> Muestra todos los procesos actuales.
 ![PS](img/PS.png) 
   - <ins>ps -u root:</ins> Muestra los procesos ejecutados por el usuario root.
-![PS](img/PS-U-ROOT.png) 
+![PS -U ROOT](img/PS-U-ROOT.png) 
   - <ins>ps -ef:</ins> Muestra todos los procesos con detalles extendidos.
-![PS](img/PS-EF.png)
+![PS -EF](img/PS-EF.png)
 
 *TOP*
 - Muestra una lista dinámica y en tiempo real de los procesos en ejecución, permitiendo observar qué procesos consumen más recursos del sistema. A diferencia de ps, top se actualiza continuamente.
-  - <ins>top:</ins> Muestra en tiempo real los procesos más activos. 
+  - <ins>top:</ins> Muestra en tiempo real los procesos más activos.
+![TOP](img/TOP.png)
   - <ins>top -m:</ins> Muestra información de la memoria activada y desactivada. 
   - <ins>top -u root:</ins> Muestra los procesos del usuario root.
 
