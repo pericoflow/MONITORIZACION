@@ -1,4 +1,4 @@
-# <h1 align="center"> Monitorización del Almacenamiento </h> 
+# <h1 align="center"> MONITORIZACIÓN DEL ALMACENAMIENTO </h> 
 
 La *"monitorización del almacenamiento"* es crucial para asegurarse de que el sistema tiene suficiente espacio disponible en el disco y para evitar que se sobrecargue. Además, permite detectar posibles cuellos de botella relacionados con el acceso a disco. 
 
