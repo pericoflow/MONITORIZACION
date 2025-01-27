@@ -24,9 +24,12 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
 
 *HTOP*
 - Es una versión mejorada de top, con una interfaz gráfica más amigable, que también muestra información en tiempo real de los procesos y recursos del sistema. Ofrece opciones interactivas como ordenar por diferentes columnas y visualizar los procesos en un árbol. 
-  - <ins>htop:</ins> Muestra una interfaz interactiva para monitorear los procesos. 
-  - <ins>htop -t:</ins> Muestra los procesos en forma de árbol. 
-  - <ins>htop --sort-key PERCENT_MEM:</ins> Ordena los procesos por uso de memoria. 
+  - <ins>htop:</ins> Muestra una interfaz interactiva para monitorear los procesos.
+![HTOP](img/HTOP.png)
+  - <ins>htop -t:</ins> Muestra los procesos en forma de árbol.
+![HTOP -T](img/HTOP-T.png)
+  - <ins>htop --sort-key PERCENT_MEM:</ins> Ordena los procesos por uso de memoria.
+![HTOP --SORT-KEY PERCENT_MEM](img/HTOP--SORT-KEY-PERCENT_MEM.png)
 
 *ATOP*
 - Es una herramienta avanzada que ofrece una monitorización más detallada, mostrando estadísticas sobre el uso de CPU, disco, memoria, red y más. También puede almacenar registros históricos para su posterior análisis.
