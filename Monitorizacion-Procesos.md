@@ -42,6 +42,6 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
 
 ## Selección de página 
 [Volver](./Introduccion.md)    
-[Ir a Monitorización del Almacenamiento](./Monitorización-Almacenamiento.md)  
+[Ir a Monitorización del Almacenamiento](./Monitorizacion-Almacenamiento.md)  
 [Ir a Monitorización de la Red](./Monitorizacion-Red.md)  
 [Ir a Referencias](./Referencias.md)  
