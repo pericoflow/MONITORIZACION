@@ -6,9 +6,9 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
 
 *FREE* 
 - Este comando proporciona toda la información sobre la RAM, cuanta RAM se está utilizando, cuenta está disponible, etc. El comando free sin opciones nos devolverá entonces los resultados para la memoria Total, Usada y Libre de tu ordenador o servidor. 
-  - <isn>free:</isn> Muestra la memoria total, usada y libre. 
-  - <isn>free -m:</isn> Muestra la memoria en megabytes. 
-  - <isn>free -s 1:</isn> Actualiza la información de la memoria cada segundo. 
+  - <ins>free:</ins> Muestra la memoria total, usada y libre. 
+  - <ins>free -m:</ins> Muestra la memoria en megabytes. 
+  - <ins>free -s 1:</ins> Actualiza la información de la memoria cada segundo. 
  
 *DF* 
 - El comando df (disk free) se utiliza para obtener un informe del espacio total, usado y disponible en los sistemas de archivos montados. 
