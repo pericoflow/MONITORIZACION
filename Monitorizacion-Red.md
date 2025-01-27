@@ -39,3 +39,7 @@ La *"monitorización de la red"* permite observar el tráfico de datos que fluye
 ![NETSTAT](img/NETSTAT-P.png) 
   - <ins>netstat -i:</ins> Muestra estadísticas detalladas de las interfaces de red. 
 ![NETSTAT](img/NETSTAT-I.png) 
+
+## Selección de página 
+[Volver](./Monitorización-Almacenamiento.md)     
+[Ir a Referencias](./Referencias.md)  
