@@ -1,4 +1,4 @@
-# <h1 align="center"> Monitorización de la Red </h> 
+# <h1 align="center"> MONITORIZACIÓN DE LA RED </h> 
 
 La *"monitorización de la red"* permite observar el tráfico de datos que fluye a través de las interfaces de red, así como gestionar conexiones activas y analizar el rendimiento de la red. Esto es útil para detectar problemas de conectividad, optimizar el tráfico y realizar auditorías de seguridad. 
 
