@@ -33,6 +33,9 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
 
 *IOSTAT* 
 - Proporciona estadísticas sobre la utilización de la CPU y los dispositivos de almacenamiento (discos duros, SSDs, etc.). Es muy útil para analizar el rendimiento de los discos y la carga de la CPU. 
-  - <ins>iostat:</ins> Muestra estadísticas básicas de la utilización de CPU y discos. 
-  - <ins>iostat 1:</ins> Actualiza las estadísticas cada segundo. 
+  - <ins>iostat:</ins> Muestra estadísticas básicas de la utilización de CPU y discos.
+![IOSTAT](img/IOSTAT.png)
+  - <ins>iostat 1:</ins> Actualiza las estadísticas cada segundo.
+![IOSTAT 1](img/IOSTAT-1.png)
   - <ins>iostat -d:</ins> Muestra estadísticas detalladas de todos los dispositivos de almacenamiento.
+![IOSTAT -D](img/IOSTAT-D.png)
