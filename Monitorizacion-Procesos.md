@@ -9,7 +9,7 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
   - <ins>ps:</ins> Muestra todos los procesos actuales.
 ![PS](img/PS.png) 
   - <ins>ps -u root:</ins> Muestra los procesos ejecutados por el usuario root.
-![PS](img/PS-U.png) 
+![PS](img/PS-U-ROOT.png) 
   - <ins>ps -ef:</ins> Muestra todos los procesos con detalles extendidos.
 
 *TOP*
