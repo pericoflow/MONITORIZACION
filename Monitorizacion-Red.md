@@ -16,8 +16,11 @@ La *"monitorización de la red"* permite observar el tráfico de datos que fluye
 *TCPTRACK* 
 - Muestra las conexiones TCP activas en tiempo real, indicando las direcciones IP de origen y destino, el estado de la conexión y la cantidad de datos transmitidos. 
   - <ins>sudo tcptrack:</ins> Muestra las conexiones TCP activas en la interfaz de red predeterminada. 
+![TCPTRUCK](img/TCPTRUCK.png) 
   - <ins>sudo tcptrack -i eth0:</ins> Muestra todas las conexiones TCP activas en tiempo real en la interfaz eth0. 
+![TCPTRUCK -I ENP0S3](img/TCPDUMP-I.png) 
   - <ins>sudo tcptrack -i eth0 -v:</ins> Muestra estadísticas detalladas de las conexiones TCP activas en la interfaz eth0. 
+![TCPTRUCK -I ENPOS3 -V](img/TCPDUMP-I-V.png) 
 
 *IPTRAF-NG* 
 - Es una herramienta interactiva que ofrece estadísticas detalladas sobre el tráfico de red en tiempo real. Se utiliza para supervisar y analizar conexiones de red, tráfico de datos y más.
