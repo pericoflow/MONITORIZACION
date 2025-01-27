@@ -39,3 +39,8 @@ La *"monitorización del almacenamiento"* es crucial para asegurarse de que el s
 ![IOSTAT 1](img/IOSTAT-1.png)
   - <ins>iostat -d:</ins> Muestra estadísticas detalladas de todos los dispositivos de almacenamiento.
 ![IOSTAT -D](img/IOSTAT-D.png)
+
+## Selección de página 
+[Volver](./Monitorizacion-Procesos.md)      
+[Ir a Monitorización de la Red](./Monitorizacion-Red.md)  
+[Ir a Referencias](./Referencias.md)  
