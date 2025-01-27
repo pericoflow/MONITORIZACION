@@ -8,7 +8,8 @@ La *"monitorización de procesos"* es esencial para conocer el comportamiento de
 - Proporciona una instantánea de los procesos en ejecución en el sistema. Se utiliza para obtener información sobre procesos activos y sus recursos asociados. 
   - <ins>ps:</ins> Muestra todos los procesos actuales.
 ![PS](img/PS.png) 
-  - <ins>ps -u root:</ins> Muestra los procesos ejecutados por el usuario root. 
+  - <ins>ps -u root:</ins> Muestra los procesos ejecutados por el usuario root.
+![PS](img/PS -U.png) 
   - <ins>ps -ef:</ins> Muestra todos los procesos con detalles extendidos.
 
 *TOP*
